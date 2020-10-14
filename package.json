@@ -2,7 +2,7 @@
   "name": "andrewselvarajah",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://andrewselvarajah.github.io/first-website/",
+  "homepage":"https://andrewselvarajah.github.io/andrewselvarajah/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
