@@ -17,7 +17,7 @@ function Welcome(){
         <div className = "welcome-text" data-aos = "fade-right" >
 
             <h1 className = "title" >WELCOME</h1>
-            <p className = "sub"> Hello! Welcome to my first website! I am learning react this 2020 summer so I decided to make a website with what I have learned. I am using this website to let potential employers know a little more about me and my skills.  Thank you for visiting!   </p>
+            <p className = "sub"> Hello! Welcome to my first website! I am learning React this 2020 summer so I decided to make a website with what I have learned. This website was created using React, HTML, CSS and some Javascript.  Some dependencies include Recharts, Reactbootstrap and AOS.  I am using this website to let potential employers know a little more about me and my skills.  Thank you for visiting!     </p>
           <p></p>
         </div>
        </Col>
