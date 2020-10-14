@@ -2,7 +2,7 @@
   "name": "andrewselvarajah",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://andrewselvarajah.github.io/andrewselvarajah/",
+  "homepage": "https://andrewselvarajah.github.io/andrewselvarajah/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -20,8 +20,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
-		"start": "react-scripts start",
-		"build": "react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
